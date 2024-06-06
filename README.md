@@ -2,9 +2,9 @@
 Just a few different Garry's Mod Addons.
 ----------------------------------------
 Hunger/Thirst
-* Adds hunger and thirst meter
+* Adds hunger and thirst HUD
 * Sprinting decreases hunger and thirst faster
-* Eating decreases thirst, drinking decreases hunger
+* Two food items included
 (Add food entites in entties folder)
 ----------------------------------------
 Admin on duty (Requires Ulysses)
