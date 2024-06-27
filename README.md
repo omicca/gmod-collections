@@ -11,3 +11,8 @@ Admin on duty (Requires Ulysses)
 * Invisible whilst on duty
 * Godmode
 * ESP to see players
+----------------------------------------
+EasyInventory
+* Pickup any item
+* Drop items
+* Edit settings in ei_config.lua
