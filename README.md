@@ -1,5 +1,5 @@
 # gmod-collections
-Just a few different Garry's Mod Addons.
+A collection of Garry's Mod Addons.
 ----------------------------------------
 Hunger/Thirst
 * Adds hunger and thirst HUD
